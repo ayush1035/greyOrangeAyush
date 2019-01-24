@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1496857239036-1fb137683000?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "noOfLikes": 11,
+      "comments": [
+        "Nice click",
+        "superb click"
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://a1128.g.akamai.net/7/1128/497/0001/origin-d5.scene7.com/is/image/ProvideCommerce/red%20flower%207_blog131210?wid=712",
+      "noOfLikes": 13,
+      "comments": [
+        "Nice click broo",
+        "superb click"
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "noOfLikes": 1,
+      "comments": [
+        "Nice click bhai",
+        "superb click"
+      ]
+    }
+  ]
